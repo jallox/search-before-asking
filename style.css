@@ -1,0 +1,102 @@
+* {
+    background-color: #090909;
+    color: #ffffff;
+    font-family: monospace;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+main {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+
+h1:hover {
+    text-decoration-color: #ffffff;
+    text-decoration: underline;
+}
+
+.zx-394fb {
+    text-decoration: none;
+    color: #303030;
+    font-size: medium;
+}
+
+p {
+    font-size: large;
+    line-height: 22px;
+}
+
+.chat {
+    background-color: #303030;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px;
+    border-left: 5px solid #202020;
+    font-size: larger;
+}
+
+.search {
+
+    background-color: #303030;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 15px;
+    border-left: 5px solid #202020;
+    font-size: larger;
+}
+
+.username {
+    background-color: #303030;
+    margin: 0px;
+    font-weight: 900;
+}
+
+.date {
+    background-color: #303030;
+    margin: 0px;
+    color: #151515;
+    padding: 0px;
+    margin-left: 10px;
+    font-weight: 100;
+}
+
+.content {
+    background-color: #303030;
+
+
+}
+
+.italics {
+    font-style: italic;
+    background-color: transparent;
+    padding: 0px;
+    margin: 0px;
+}
+
+.github-btn {
+    background-color: #303030;
+    border-radius: 5px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 10px;
+    font-size: larger;
+    text-decoration: none;
+}
+
+.github-btn:hover {
+    background-color: #202020;
+}
+
+strong {
+    background-color: #303030;
+}
+
+code {
+    background-color: #202020;
+    border-radius: 5px;
+}
